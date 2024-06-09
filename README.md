@@ -1,0 +1,2 @@
+# hoyoplay
+Hoyoplay NetCafe Launcher
